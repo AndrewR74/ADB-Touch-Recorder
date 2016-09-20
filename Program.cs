@@ -15,7 +15,13 @@ namespace AdbTouchGenerator
 
         static void Main(string[] args)
         {
-            string _filename = @"E:\GitHub\Projects\Device Loader\SwiftiumDeviceLoaders\bin\Debug\platform-tools\touches.txt", _deviceId = null, _outputFile = null;
+            string _filename = null, _deviceId = null, _outputFile = null;
+
+#if DEBUG
+            _filename = @"E:\GitHub\Projects\Device Loader\SwiftiumDeviceLoaders\bin\Debug\platform-tools\touches.txt";
+#else
+            _filename = @"touches.txt";
+#endif
 
             if (args.Length > 0)
             {

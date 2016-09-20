@@ -1,0 +1,5 @@
+E:\GitHub\Projects\Device Loader\AdbTouchGenerator\bin\Release\AdbTouchGenerator.exe.config
+E:\GitHub\Projects\Device Loader\AdbTouchGenerator\bin\Release\AdbTouchGenerator.exe
+E:\GitHub\Projects\Device Loader\AdbTouchGenerator\bin\Release\AdbTouchGenerator.pdb
+E:\GitHub\Projects\Device Loader\AdbTouchGenerator\obj\Release\AdbTouchGenerator.exe
+E:\GitHub\Projects\Device Loader\AdbTouchGenerator\obj\Release\AdbTouchGenerator.pdb
