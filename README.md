@@ -46,8 +46,8 @@ Processes raw ADB events into a bat script that can be used repeatedly
 [    5686.296086] /dev/input/event5: EV_REL       REL_RY               000000ef         
 
 # Output File (output.bat)
-adb shell input tap 741 447 
-ping 192.0.2.1 -n 1 -w 250 >nul 
+adb shell input tap 741 447
+ping 192.0.2.1 -n 1 -w 250 >nul
 adb shell input tap 404 512 
 ping 192.0.2.1 -n 1 -w 250 >nul 
 adb shell input tap 401 567 
