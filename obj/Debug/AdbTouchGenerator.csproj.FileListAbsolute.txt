@@ -1,0 +1,6 @@
+E:\GitHub\Projects\Device Loader\AdbTouchGenerator\bin\Debug\AdbTouchGenerator.exe.config
+E:\GitHub\Projects\Device Loader\AdbTouchGenerator\bin\Debug\AdbTouchGenerator.exe
+E:\GitHub\Projects\Device Loader\AdbTouchGenerator\bin\Debug\AdbTouchGenerator.pdb
+E:\GitHub\Projects\Device Loader\AdbTouchGenerator\obj\Debug\AdbTouchGenerator.csprojResolveAssemblyReference.cache
+E:\GitHub\Projects\Device Loader\AdbTouchGenerator\obj\Debug\AdbTouchGenerator.exe
+E:\GitHub\Projects\Device Loader\AdbTouchGenerator\obj\Debug\AdbTouchGenerator.pdb
