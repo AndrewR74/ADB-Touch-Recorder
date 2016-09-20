@@ -56,3 +56,10 @@ adb shell input tap 814 1170
 ping 192.0.2.1 -n 1 -w 250 >nul
 adb shell input tap 92 172
 ping 192.0.2.1 -n 1 -w 250 >nul
+adb shell input tap 743 780
+ping 192.0.2.1 -n 1 -w 250 >nul
+adb shell input tap 380 557
+ping 192.0.2.1 -n 1 -w 250 >nul
+adb shell input tap 846 1154
+
+### NOTE: The above input and output do not reflect actual values but an depict the data formats.
